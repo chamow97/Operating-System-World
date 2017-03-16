@@ -40,7 +40,7 @@ float * RoundRobin(int numberOfProcess, int arrivalTime[], int burstTime[], int 
     remainingProcess = numberOfProcess;
 
     waitingTime[0] = arrivalTime[0];
-    currentTime += waitingTime[0];
+     currentTime += waitingTime[0];
 
     //do till no remaining process
     while(flag == TRUE)
