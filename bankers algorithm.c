@@ -60,11 +60,11 @@ void BankerAlorithm(int numberOfProcesses, int numberOfResources, int availableV
                 }
                 //this means that no process has completed in this cycle and
                 //hence it is not going to complete anyways
-                if(temp == remainingProcess && remainingProcess > 0)
-                {
-                    printf("\n\n\t System is in deadlock condition!!");
-                    return;
-                }
+//                if(temp == remainingProcess && remainingProcess > 0)
+//                {
+//                    printf("\n\n\t System is in deadlock condition!!");
+//                    return;
+//                }
             }
 
 
