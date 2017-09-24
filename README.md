@@ -5,8 +5,8 @@
 <h4>Page Replacement Algorithms</h4>
 <ol>
 	<li><a href="src/FIFO page replacement.c">First In First Out(FIFO/FCFS) page replacement Algorithm</a></li>
-	<li><a href="src/least recently page replacement algorithm.c">Least Recently Used(LRU) page relacement Algorithm</a></li>
-	<li><a href="src/oprimal page replacement algorithm.c">Optimal page replacement Algorithm</a></li>
+	<li><a href="src/least recently used page replacement algorithm.c">Least Recently Used(LRU) page relacement Algorithm</a></li>
+	<li><a href="src/optimal page replacement Algorithm.c">Optimal page replacement Algorithm</a></li>
 </ol>
 <h4>Scheduling Algorithms</h4>
 <ol>
@@ -39,4 +39,10 @@
 <h4>Miscellaneous</h4>
 <ol>
 	<li><a href="src/paging hardware implementation.c">Simple Paging Hardware Implementation</a></li>
+</ol>
+
+<h3>Future Works</h3>
+<ol>
+	<li>Add other famous Algorithms like Cigarette smokers problem, Tree File Structure, etc</li>
+	<li>Add more languages.</li>
 </ol>
